@@ -1,0 +1,11 @@
+body {
+    padding: 1rem;
+    background: url("https://teletype.in/files/4c/92/4c921335-ad77-4be8-8819-96a9ddd1757b.png") center;
+    background-size: cover;
+    color: white;
+    min-height: 100vh;
+}
+
+* {
+    box-sizing: border-box;
+}
